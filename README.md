@@ -1,11 +1,11 @@
-### Hi there 👋
+**Hi there! I'm Abdukuddus!** 👋, a passionate tech enthusiast with diverse experience in Data Science and Software Development.
 
 # Welcome to my GitHub!
 
 ![Alt text](https://private-user-images.githubusercontent.com/33756692/310684053-ab92dd19-6aa9-40b2-9e76-75002a8960b4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3MTI5MjYsIm5iZiI6MTcxNTcxMjYyNiwicGF0aCI6Ii8zMzc1NjY5Mi8zMTA2ODQwNTMtYWI5MmRkMTktNmFhOS00MGIyLTllNzYtNzUwMDJhODk2MGI0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQxODUwMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNmYxOGU0Yjg4MjM3YWI3Y2Y4ODY1YTFmYjA2YTEwOTRjYjhkYjRmZTcwMjY1ZTc2Nzc5MDYyYTIzOTM1ODhiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AUdFSi6MFnDyxfGQKwxbSqcS7Bh6cnUvaVUU--PXjEs)
 
 ## About Me
-**Hi there! I'm Abdukuddus!** 👋, a passionate tech enthusiast with diverse experience in Data Science and Software Development.
+Detail-oriented and innovative software engineer with over 4 years of experience in designing and implementing responsive and user-friendly websites. Proficient in web technologies, including Javascript, ReactJS, NextJS and Redux. Currently pursuing Master’s in Data Science at the University of Greenwich, acquiring essential knowledge in Machine Learning, NLP, Deep Learning and Data Visualization principles. Additionally, actively engaged in a comprehensive Data Science Bootcamp on DfE with HyperionDev to further enhance practical skills and stay abreast of the latest industry trends. Eager to apply this dual proficiency in software engineering and data science to a challenging data scientist position, collaborating with a dynamic team to drive technical innovation and business growth. Furthermore, I excel in soft skills such as effective communication, collaboration, critical thinking, and adaptability.
 
 
 ## What I'm Currently Doing
