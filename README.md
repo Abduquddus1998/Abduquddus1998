@@ -4,9 +4,15 @@
 
 ![Header Image](https://private-user-images.githubusercontent.com/33756692/310684053-ab92dd19-6aa9-40b2-9e76-75002a8960b4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTQ1MDksIm5iZiI6MTcxMzM1NDIwOSwicGF0aCI6Ii8zMzc1NjY5Mi8zMTA2ODQwNTMtYWI5MmRkMTktNmFhOS00MGIyLTllNzYtNzUwMDJhODk2MGI0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxN1QxMTQzMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjFjZjEzOWEwZTJiZGJmODgxY2M2ZTgyZmE1NmJiZDliZjUyMjhiODFjMTZkNzhkMDVlNDYzNjdjZjk2NzQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iyuZqDatCBfpRMZNlg5JcXpvJPwooruIxJSkr7nFaBk)
 
-# About Me
+## About Me
+**Hi there! I'm Abdukuddus!** 👋, a passionate tech enthusiast with diverse experience in Data Science and Software Development.
 
-Hi there! I'm Abdukuddus, a passionate tech enthusiast with diverse experience in software development and data science.
+
+## What I'm Currently Doing
+- 🌱 Learning Machine Learning and NLP through a Data Science Bootcamp with HyperionDev.
+- 📝 Working on honing my skills in Python, CNN and Data Visualisation, always seeking opportunities to practice and improve.
+- 🛠️ Diving into Natural Language Processing (NLP) tasks, such as sentiment analysis of Amazon product reviews, utilizing Python and advanced NLP techniques.
+
 
 ## Experience
 
@@ -17,7 +23,7 @@ Hi there! I'm Abdukuddus, a passionate tech enthusiast with diverse experience i
 
 ### Data Scientist (Current)
 - **Company Name:** HyperionDev
-- **Duration:** 10.2023 - present
+- **Duration:** 10.2023 - 03.2024
 - **Responsibilities:** Data Scientist Apprenticeship 
 
 ## Skills
@@ -32,6 +38,6 @@ Hi there! I'm Abdukuddus, a passionate tech enthusiast with diverse experience i
 - **LinkedIn:** https://www.linkedin.com/in/abdukuddus-azizov-398771240/
 - **Website/Blog:**  https://www.hyperiondev.com/portfolio/AA23100010321/
 - **GitHub:** https://github.com/Abduquddus1998
-- 
+  
 Feel free to reach out to me if you have any questions, want to discuss potential collaborations, or just want to connect!
 
